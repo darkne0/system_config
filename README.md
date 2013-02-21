@@ -1,4 +1,5 @@
 system_config
 =============
 
-config files
+.profile configuraciones varias del sistema
+eclipse.ini optimizaciones de eclipse, este archivo va en /Applications/eclipse/Eclipse.app/Contents/MacOS
