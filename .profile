@@ -5,6 +5,7 @@ export PS1='\n\e[0;35m\u : \e[1;31m\W \e[0;36m\$ \e[0m'
 alias ll='ls -l'
 alias l='ls -lA'
 alias subl='open -a "Sublime Text 2"'
+alias line_count='/Users/darkneo/Documents/scripts_bash/line_count.sh'
 
 #ls con colores
 export CLICOLOR='true'
