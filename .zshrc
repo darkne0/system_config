@@ -12,6 +12,7 @@ ZSH_THEME="robbyrussell"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias ll='ls -l'
 alias subl='open -a "Sublime Text 2"'
+alias line_count='/Users/darkneo/Documents/scripts_bash/line_count.sh'
 
 # Set to this to use case-sensitive completion
 # CASE_SENSITIVE="true"
@@ -38,7 +39,6 @@ plugins=(git osx python)
 
 source $ZSH/oh-my-zsh.sh
 
-# Customize to your needs...
 # Customize to your needs...
 export PATH=$HOME/.rvm/gems/ruby-1.9.3-p327/bin:$HOME/.rvm/gems/ruby-1.9.3-p327@global/bin:$HOME/.rvm/rubies/ruby-1.9.3-p327/bin:$HOME/.rvm/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:${PATH}
 export PATH=/Users/darkneo/Documents/android-sdk-macosx/platform-tools:${PATH}
